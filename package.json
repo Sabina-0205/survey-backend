@@ -1,0 +1,13 @@
+{
+  "name": "stust-fhir-backend-v2",
+  "version": "1.0.0",
+  "description": "全新相容 1 到 8 題的 FHIR 後端伺服器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
